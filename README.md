@@ -34,12 +34,12 @@ Git introduction.
 
 8. Accept pull request.
 
-![8](https://github.com/txrm/edix-S7L1/blob/0.1/screencaps/8.png?raw=true)
+![8](https://github.com/txrm/edix-S7L1/blob/main/screencaps/8.png?raw=true)
 
 9. Change branch to "main" and run `git pull`
 
-![9](https://github.com/txrm/edix-S7L1/blob/0.1/screencaps/9.png?raw=true)
+![9](https://github.com/txrm/edix-S7L1/blob/main/screencaps/9.png?raw=true)
 
 10. Last changes and push to "main".
 
-![9](https://github.com/txrm/edix-S7L1/blob/0.1/screencaps/10.png?raw=true)
+![9](https://github.com/txrm/edix-S7L1/blob/main/screencaps/10.png?raw=true)
